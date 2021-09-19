@@ -17,7 +17,8 @@
 ## Задание 3
 
 - Задать такие стили данному контейнеру, чтобы в результате получился следующий по оформлению блок.
-![Task 3](/Docs/Images/Practice2/2_taks3.png "Task 3")
+  
+![Task 3](/Docs/Images/Practice2/2_task3.png "Task 3")
 
 ## Задание 4
 
@@ -28,39 +29,47 @@
 ## Задание 5
 
 - Задать стили заголовку. Используется шрифт [Oswald](https://fonts.google.com/specimen/Oswald).
-![Task 5](/Docs/Images/Practice2/2_taks5.png "Task 5")
+  
+![Task 5](/Docs/Images/Practice2/2_task5.png "Task 5")
 
 ## Задание 6
 
 - Создать `span` элементы, чтобы выделить некоторые буквы или слова:
-![Task 6](/Docs/Images/Practice2/2_taks6.png "Task 6")
+
+![Task 6](/Docs/Images/Practice2/2_task6.png "Task 6")
 
 ## Задание 7
 
 - Обратиться к элементу `div` внутри `content-container` (**без** создания **нового класса или id** – можно использовать только селектор) и поменять для него стили:
-![Task 7](/Docs/Images/Practice2/2_taks7.png "Task 7")
+  
+![Task 7](/Docs/Images/Practice2/2_task7.png "Task 7")
 
 ## Задание 8
 
 - Обратиться к элементу `p` внутри `content-container` (**без** создания **нового класса или id** – можно использовать только селектор) и поменять для него стили:
-![Task 8](/Docs/Images/Practice2/2_taks8.png "Task 8")
+
+![Task 8](/Docs/Images/Practice2/2_task8.png "Task 8")
 
 ## Задание 9
 
 - Создать списки и заголовки (используйте тег `h2`) к ним. Внести в список 5 элементов для нумерованного и 3 элемента для маркированного списков, применяя стили:
-![Task 9](/Docs/Images/Practice2/2_taks9.png "Task 9")
+
+![Task 9](/Docs/Images/Practice2/2_task9.png "Task 9")
 
 ## Задание 10
 
 - Добавить к карточкам списков небольшую анимацию: при наведении контейнер (карточка) плавно поднимается по диагонали на `10px` вверх (по оси `х` и `у`):
-![Task 10](/Docs/Images/Practice2/2_taks10.png "Task 10")
+  
+![Task 10](/Docs/Images/Practice2/2_task10.png "Task 10")
 
 ## Задание 11
 
 - Создать две карточки-ссылки, используя `a`, `h2`, `img`, `p`:
-![Task 11](/Docs/Images/Practice2/2_taks11.png "Task 11")
+  
+![Task 11](/Docs/Images/Practice2/2_task11.png "Task 11")
 
 ## Задание 12
 
 - Создать форму с полями ввода для почты и пароля и кнопкой `Submit`:
-![Task 12](/Docs/Images/Practice2/2_taks12.png "Task 12")
+  
+![Task 12](/Docs/Images/Practice2/2_task12.png "Task 12")
